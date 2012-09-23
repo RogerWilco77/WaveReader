@@ -1,0 +1,19 @@
+Diese Referenzdatei dient ausschließlich zu Testzwecken.
+Alle Angaben vor einem "Sternchen" werden ignoriert.
+Das Format lautet:
+Name des Messwertes;Minwert;Maxwert
+Bitte beachten Sie, dass zur Zeit die Reihenfolge Minwert und dann Maxwert eingehalten weren muss.
+Namen der Messwerte müssen eindeutig sein.
+*
+Messwert 1;-50;50
+Messwert 2;-50;50
+Messwert 3;-50;50
+Messwert 4;0;50
+Messwert 5;0;50
+Messwert 6;0:50
+Messwert 7;-50;0
+Messwert 8;-50;0
+Messwert 9;-50;0
+Messwert 10;-50.0;50.0
+Messwert 11;-50.0;50.0
+Messwert 12;-50.0;50.0

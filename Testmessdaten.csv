@@ -1,0 +1,19 @@
+Diese Messdatei dient ausschließlich zu Testzwecken.
+Alle Angaben vor einem "Sternchen" werden ignoriert.
+Das Format lautet:
+Name des Messwertes;Messwert
+Namen der Messwerte müssen eindeutig sein.
+*
+Messwert 1;-10
+Messwert 2;10
+Messwert 3;-60
+Messwert 4;10
+Messwert 5;15
+Messwert 6;60
+Messwert 7;-10.0
+Messwert 8;-20
+Messwert 9;60
+Messwert 10;20
+Messwert 11;40
+Messwert 12;60.0
+Messwert 13;100
